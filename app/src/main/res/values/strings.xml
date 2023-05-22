@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CosmoLot Battle</string>
+    <string name="title_activity_privacy_policy">PrivacyPolicyActivity</string>
+    <string name="title_activity_cosmo_lot">CosmoLotActivity</string>
+    <string name="score">Score</string>
+    <string name="last_sum">Last Sum</string>
+    <string name="score_key">scoreKay</string>
+    <string name="score_pref">scorePref</string>
+    <string name="bit">Bit</string>
+    <string name="spin">SPIN</string>
+</resources>
